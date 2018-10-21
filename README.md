@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-This is the inital commit.
+This is the inital commit. or is it
